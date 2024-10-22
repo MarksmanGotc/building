@@ -201,9 +201,9 @@ function calculateCost() {
             totalDiscounts[key] += blockDiscounts[key];
         }
 
-        if (reqs) {
+        /*if (reqs) {
             blockCostDiv.innerHTML += `<p>Reqs: ${reqs}</p>`;
-        }
+        }*/
 
         costSummaryElement.appendChild(blockCostDiv);
     }
