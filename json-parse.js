@@ -112,8 +112,8 @@ function addAnotherBuilding() {
 
 
 function calculateCost() { 
-    var totalCosts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
-    var totalDiscounts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+    var totalCosts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+    var totalDiscounts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
     var costSummaryElement = document.getElementById('costSummary');
     var numberFormatter = new Intl.NumberFormat('en-US');
     var wrapperElement = document.querySelector('.wrapper');
@@ -132,8 +132,8 @@ function calculateCost() {
         let selectedBuilding = buildingSelect.value;
         let buildingData = build[selectedBuilding];
 
-        var blockCosts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
-        var blockDiscounts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+        var blockCosts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+        var blockDiscounts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
         var reqs = '';
 
         for (let j = currentLevel; j < targetLevel; j++) {
