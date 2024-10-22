@@ -207,7 +207,7 @@ div#buildingBlocksContainer .buildingBlock:last-child, .buildingBlock.start  {
 }
 
 .yourBoost > div {
-    flex: 1;
+    flex: 1 1 30%;
     min-width: 100px; /* Asettaa minimileveyden jokaiselle alaosalle */
 }
 
