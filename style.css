@@ -431,17 +431,17 @@ span.efficiency {
 .yourBoost > div {
     flex: 1 1 30%;
 }
-.recources * {
+.resources * {
     display: inline-block;
 }
 
-.recources {
+.resources {
     display: flex;
     align-items: center;
     column-gap: 8px;
 }
 
-.recources img {
+.resources img {
     max-width: 40px;
 }
 
