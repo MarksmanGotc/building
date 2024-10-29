@@ -30,13 +30,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function loadBuildings(buildingSelectElement) {
     buildingSelectElement.innerHTML = '';
-    for (let building in build) {
+    
+    // Hae rakennusten nimet ja lajittele ne aakkosjärjestykseen
+    const sortedBuildings = Object.keys(build).sort();
+
+    // Lisää järjestetyt rakennukset valikkoon
+    sortedBuildings.forEach(building => {
         let option = document.createElement('option');
         option.value = building;
         option.textContent = building;
         buildingSelectElement.appendChild(option);
-    }
+    });
+
+    // Päivitä enhancements-valikko valitun rakennuksen perusteella
+    var enhancementSelect = buildingSelectElement.parentNode.parentNode.querySelector('.enhancementSelect');
+    loadEnhancements(enhancementSelect);
 }
+
 
 function addAnotherBuilding() {
     document.querySelectorAll('.buildingBlock.start').forEach(function(element) {
@@ -112,8 +122,8 @@ function addAnotherBuilding() {
 
 
 function calculateCost() { 
-    var totalCosts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
-    var totalDiscounts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+    var totalCosts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+    var totalDiscounts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
     var costSummaryElement = document.getElementById('costSummary');
     var numberFormatter = new Intl.NumberFormat('en-US');
     var wrapperElement = document.querySelector('.wrapper');
@@ -132,8 +142,8 @@ function calculateCost() {
         let selectedBuilding = buildingSelect.value;
         let buildingData = build[selectedBuilding];
 
-        var blockCosts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
-        var blockDiscounts = { wood: 0, food: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+        var blockCosts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
+        var blockDiscounts = { food: 0, wood: 0, stone: 0, iron: 0, brick: 0, pine: 0, keystone: 0, valyrianStone: 0, blackstone: 0, upgradeTime: 0 };
         var reqs = '';
 
         for (let j = currentLevel; j < targetLevel; j++) {
@@ -157,20 +167,12 @@ function calculateCost() {
 
                 let originalCost = priceItem.Value;
 
-                // Tarkistetaan alennuskenttä olemassaolosta ja lasketaan oikein
                 let discountElement = document.querySelector('.ale' + costType.charAt(0).toUpperCase() + costType.slice(1));
                 let discount = discountElement ? parseFloat(discountElement.value) || 0 : 0;
 
-                // ValyrianStone ja Upgrade Time vaativat erityisen käsittelyn
-                if (costType === 'valyrianStone' || costType === 'upgradeTime') {
-                    let discountedCost = Math.round((100 / (discount + 100)) * originalCost);
-                    blockDiscounts[costType] += originalCost - discountedCost;
-                    blockCosts[costType] += discountedCost;
-                } else {
-                    let discountedCost = Math.round((100 / (discount + 100)) * originalCost);
-                    blockDiscounts[costType] += originalCost - discountedCost;
-                    blockCosts[costType] += discountedCost;
-                }
+                let discountedCost = Math.round((100 / (discount + 100)) * originalCost);
+                blockDiscounts[costType] += originalCost - discountedCost;
+                blockCosts[costType] += discountedCost;
             });
         }
 
@@ -181,81 +183,45 @@ function calculateCost() {
             <p class="level">Level ${currentLevel} to ${targetLevel}</p>
         `;
 
-        // Näytetään tiedot oikein
-        for (let key in blockCosts) {
-            let displayName = key === 'upgradeTime' ? 'Upgrade Time' : key.charAt(0).toUpperCase() + key.slice(1);
-            let formattedCost = key === 'upgradeTime' ? formatTime(blockCosts[key]) : numberFormatter.format(blockCosts[key]);
+        // Lisätään ikoni ja resurssin määrä
+        const resourceIcons = {
+            food: '/food.png',
+            wood: '/wood.png',
+            stone: '/stone.png',
+            iron: '/iron.png',
+            brick: '/brick.png',
+            pine: '/pine.png',
+            keystone: '/keystone.png',
+            valyrianStone: '/valyrianstone.png',
+            blackstone: '/blackstone.png'
+        };
 
-            if (blockDiscounts[key] > 0) {
+        for (let key in blockCosts) {
+            if (key === 'upgradeTime') {
+                blockCostDiv.innerHTML += `<p>Upgrade Time: ${formatTime(blockCosts[key])}</p>`;
+            } else if (blockCosts[key] > 0) {
                 blockCostDiv.innerHTML += `
-                    <p>${displayName}: <span class="efficiency">${formattedCost}</span></p>
-                    <span>Cost Efficiency saved on ${displayName}: ${numberFormatter.format(blockDiscounts[key])}</span>
-                `;
-            } else {
-                blockCostDiv.innerHTML += `
-                    <p>${displayName}: ${formattedCost}</p>
+                    <div class="resources">
+                        <img src="${resourceIcons[key]}" alt="${key} icon">
+                        <p>${numberFormatter.format(blockCosts[key])}</p>
+                    </div>
                 `;
             }
-
-            totalCosts[key] += blockCosts[key];
-            totalDiscounts[key] += blockDiscounts[key];
         }
 
-        /*if (reqs) {
+        if (reqs) {
             blockCostDiv.innerHTML += `<p>Reqs: ${reqs}</p>`;
-        }*/
+        }
 
         costSummaryElement.appendChild(blockCostDiv);
     }
-
-    if (!document.getElementById('closeResults')) {
-        let closeButton = document.createElement('button');
-        closeButton.id = 'closeResults';
-
-        closeButton.innerHTML = `
-            <span>Click here to go back and modify your selections</span>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
-                <path d="M345 137c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-119 119L73 103c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l119 119L39 375c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l119-119L311 409c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-119-119L345 137z"></path>
-            </svg>`;
-
-        let closeWrapper = document.createElement('div');
-        closeWrapper.appendChild(closeButton);
-        closeWrapper.classList.add('closeWrapper');
-
-        closeWrapper.addEventListener('click', function() {
-            wrapperElement.style.display = 'block';
-            costSummaryElement.style.display = 'none';
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
-
-        costSummaryElement.prepend(closeWrapper);
-    }
-
-    if (buildingBlocks.length > 1) {
-        var totalCostDiv = document.createElement('div');
-        totalCostDiv.classList.add('totalCosts');
-        totalCostDiv.innerHTML = `
-            <h3>Costs in total:</h3>
-        `;
-
-        for (let key in totalCosts) {
-            let displayName = key === 'upgradeTime' ? 'Upgrade Time' : key.charAt(0).toUpperCase() + key.slice(1);
-            let formattedCost = key === 'upgradeTime' ? formatTime(totalCosts[key]) : numberFormatter.format(totalCosts[key]);
-
-            totalCostDiv.innerHTML += `
-                <p>${displayName}: ${formattedCost}</p>
-                ${totalDiscounts[key] > 0 ? `<span>Cost Efficiency saved on ${displayName}: ${numberFormatter.format(totalDiscounts[key])}</span>` : ''}
-            `;
-        }
-        costSummaryElement.appendChild(totalCostDiv);
-    }
-
+    
     wrapperElement.style.display = 'none';
     costSummaryElement.style.display = 'flex';
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-// Funktio muuntaa sekunnit päiviksi, tunneiksi, minuuteiksi ja sekunneiksi
+// Ajan muotoilu funktio
 function formatTime(seconds) {
     let days = Math.floor(seconds / 86400);
     let hours = Math.floor((seconds % 86400) / 3600);
@@ -272,6 +238,7 @@ function formatTime(seconds) {
 
     return formattedTime.trim();
 }
+
 
 
 
