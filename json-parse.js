@@ -41,6 +41,7 @@ function loadBuildings(buildingSelectElement) {
         option.textContent = building;
         buildingSelectElement.appendChild(option);
     });
+
 }
 
 
@@ -97,12 +98,8 @@ function addAnotherBuilding() {
     container.appendChild(newBuildingDiv);
 
     var newBuildingSelect = newBuildingDiv.querySelector('.buildingSelect');
-    var newEnhancementSelect = newBuildingDiv.querySelector('.enhancementSelect');
 
     loadBuildings(newBuildingSelect);
-    newBuildingSelect.addEventListener('change', function() {
-        loadEnhancements(newEnhancementSelect);
-    });
 	
 	adjustLevelInputs(newBuildingDiv);
 	
@@ -125,14 +122,28 @@ function calculateCost() {
     var wrapperElement = document.querySelector('.wrapper');
     
     costSummaryElement.innerHTML = '';
-    if (!document.getElementById('closeResults')) {
+	
+    // Määritä resurssi-ikonit tässä
+    const resourceIcons = {
+        food: '/building/food.png',
+        wood: '/building/wood.png',
+        stone: '/building/stone.png',
+        iron: '/building/iron.png',
+        brick: '/building/brick.png',
+        pine: '/building/pine.png',
+        keystone: '/building/keystone.png',
+        valyrianStone: '/building/valyrianstone.png',
+        blackstone: '/building/blackstone.png'
+    };
+
+	if (!document.getElementById('closeResults')) {
         let closeButton = document.createElement('button');
         closeButton.id = 'closeResults';
         
         closeButton.innerHTML = `
             <span>Click here to go back and modify your selections</span>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
-                <path d="M345 137c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-119 119L73 103c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l119 119L39 375c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l119-119L311 409c9.4-9.4 24.6-9.4 33.9 0s9.4-24.6 0-33.9l-119-119L345 137z"></path>
+                <path d="M345 137c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-119 119L73 103c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9l119 119L39 375c-9.4-9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l119-119L311 409c9.4-9.4 24.6-9.4 33.9 0s9.4-24.6 0-33.9l-119-119L345 137z"></path>
             </svg>`;
 
         closeButton.addEventListener('click', function() {
@@ -142,7 +153,7 @@ function calculateCost() {
         });
 
         costSummaryElement.prepend(closeButton);
-    }
+	}
 
     var buildingBlocks = document.querySelectorAll('.buildingBlock');
     for (let i = 0; i < buildingBlocks.length; i++) {
@@ -197,19 +208,6 @@ function calculateCost() {
             <p class="level">Level ${currentLevel} to ${targetLevel}</p>
         `;
 
-        // Lisätään ikoni ja resurssin määrä
-        const resourceIcons = {
-            food: '/building/food.png',
-            wood: '/building/wood.png',
-            stone: '/building/stone.png',
-            iron: '/building/iron.png',
-            brick: '/building/brick.png',
-            pine: '/building/pine.png',
-            keystone: '/building/keystone.png',
-            valyrianStone: '/building/valyrianstone.png',
-            blackstone: '/building/blackstone.png'
-        };
-
         for (let key in blockCosts) {
             if (key === 'upgradeTime') {
                 blockCostDiv.innerHTML += `<p>Upgrade Time: ${formatTime(blockCosts[key])}</p>`;
@@ -221,19 +219,39 @@ function calculateCost() {
                     </div>
                 `;
             }
+            totalCosts[key] += blockCosts[key];
+            totalDiscounts[key] += blockDiscounts[key];
         }
-
-        /*if (reqs) {
-            blockCostDiv.innerHTML += `<p>Reqs: ${reqs}</p>`;
-        }*/
-
         costSummaryElement.appendChild(blockCostDiv);
     }
-    
+
+    // Lisää "Costs in total" vain, jos on enemmän kuin yksi rakennus
+    if (buildingBlocks.length > 1) {
+        var totalCostDiv = document.createElement('div');
+        totalCostDiv.classList.add('totalCosts');
+        totalCostDiv.innerHTML = `<h3>Costs in total:</h3>`;
+
+        for (let key in totalCosts) {
+            if (key === 'upgradeTime') {
+                totalCostDiv.innerHTML += `<p>Upgrade Time: ${formatTime(totalCosts[key])}</p>`;
+            } else if (totalCosts[key] > 0) {
+                totalCostDiv.innerHTML += `
+                    <div class="resources">
+                        <img src="${resourceIcons[key]}" alt="${key} icon">
+                        <p>${numberFormatter.format(totalCosts[key])}</p>
+                    </div>
+                `;
+            }
+        }
+        costSummaryElement.appendChild(totalCostDiv);
+    }
+
     wrapperElement.style.display = 'none';
     costSummaryElement.style.display = 'flex';
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
+
+
 
 // Ajan muotoilu funktio
 function formatTime(seconds) {
