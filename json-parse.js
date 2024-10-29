@@ -123,7 +123,6 @@ function calculateCost() {
     
     costSummaryElement.innerHTML = '';
 	
-    // Määritä resurssi-ikonit tässä
     const resourceIcons = {
         food: '/building/food.png',
         wood: '/building/wood.png',
@@ -212,8 +211,9 @@ function calculateCost() {
             if (key === 'upgradeTime') {
                 blockCostDiv.innerHTML += `<p>Upgrade Time: ${formatTime(blockCosts[key])}</p>`;
             } else if (blockCosts[key] > 0) {
+                const efficiencyClass = blockDiscounts[key] > 0 ? 'efficiency' : '';
                 blockCostDiv.innerHTML += `
-                    <div class="resources">
+                    <div class="resources ${efficiencyClass}">
                         <img src="${resourceIcons[key]}" alt="${key} icon">
                         <p>${numberFormatter.format(blockCosts[key])}</p>
                     </div>
@@ -225,7 +225,6 @@ function calculateCost() {
         costSummaryElement.appendChild(blockCostDiv);
     }
 
-    // Lisää "Costs in total" vain, jos on enemmän kuin yksi rakennus
     if (buildingBlocks.length > 1) {
         var totalCostDiv = document.createElement('div');
         totalCostDiv.classList.add('totalCosts');
@@ -235,8 +234,9 @@ function calculateCost() {
             if (key === 'upgradeTime') {
                 totalCostDiv.innerHTML += `<p>Upgrade Time: ${formatTime(totalCosts[key])}</p>`;
             } else if (totalCosts[key] > 0) {
+                const efficiencyClass = totalDiscounts[key] > 0 ? 'efficiency' : '';
                 totalCostDiv.innerHTML += `
-                    <div class="resources">
+                    <div class="resources ${efficiencyClass}">
                         <img src="${resourceIcons[key]}" alt="${key} icon">
                         <p>${numberFormatter.format(totalCosts[key])}</p>
                     </div>
