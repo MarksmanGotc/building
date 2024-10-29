@@ -185,15 +185,15 @@ function calculateCost() {
 
         // Lisätään ikoni ja resurssin määrä
         const resourceIcons = {
-            food: '/food.png',
-            wood: '/wood.png',
-            stone: '/stone.png',
-            iron: '/iron.png',
-            brick: '/brick.png',
-            pine: '/pine.png',
-            keystone: '/keystone.png',
-            valyrianStone: '/valyrianstone.png',
-            blackstone: '/blackstone.png'
+            food: '/building/food.png',
+            wood: '/building/wood.png',
+            stone: '/building/stone.png',
+            iron: '/building/iron.png',
+            brick: '/building/brick.png',
+            pine: '/building/pine.png',
+            keystone: '/building/keystone.png',
+            valyrianStone: '/building/valyrianstone.png',
+            blackstone: '/building/blackstone.png'
         };
 
         for (let key in blockCosts) {
