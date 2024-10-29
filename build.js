@@ -39238,5 +39238,3929 @@ let build = {
                 }
             ]
         }
-    ]
+    ],
+	  "Warcamp": [
+		{
+		  "Level": 1,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 272
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 536
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 0
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 2,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 300
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 748
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 0
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 3,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 420
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 1126
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 0
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 4,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 1200
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 1797
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 0
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 5,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 1832
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 3237
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 0
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 6,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 3297
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 6159
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 0
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 7,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 5274
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 12318
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 3
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 8,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 7385
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 24593
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 4
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 0
+			}
+		  ]
+		},
+		{
+		  "Level": 9,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 8862
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 49270
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 5
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 1
+			}
+		  ]
+		},
+		{
+		  "Level": 10,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 10634
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 60738
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 7
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 2
+			}
+		  ]
+		},
+		{
+		  "Level": 11,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 6315
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 12760
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 121051
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 10
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 3
+			}
+		  ]
+		},
+		{
+		  "Level": 12,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 11970
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 15949
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 230209
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 14
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 4
+			}
+		  ]
+		},
+		{
+		  "Level": 13,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 21583
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 19935
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 414121
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 20
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 5
+			}
+		  ]
+		},
+		{
+		  "Level": 14,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 32421
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 24920
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 620119
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 29
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 7
+			}
+		  ]
+		},
+		{
+		  "Level": 15,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 0
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 36850
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 32396
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 705066
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 42
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 10
+			}
+		  ]
+		},
+		{
+		  "Level": 16,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 11055
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 49747
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 42114
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 972991
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 60
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 14
+			}
+		  ]
+		},
+		{
+		  "Level": 17,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 16582
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 67158
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 54748
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 1342727
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 87
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 20
+			}
+		  ]
+		},
+		{
+		  "Level": 18,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 24873
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 90663
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 71172
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 1852963
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 126
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 29
+			}
+		  ]
+		},
+		{
+		  "Level": 19,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 37309
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 122395
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 92523
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 2557088
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 182
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 42
+			}
+		  ]
+		},
+		{
+		  "Level": 20,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 55963
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 165233
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 120279
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 3528781
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 263
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 60
+			}
+		  ]
+		},
+		{
+		  "Level": 21,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 83944
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 223064
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 156362
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 4869717
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 381
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 87
+			}
+		  ]
+		},
+		{
+		  "Level": 22,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 125916
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 301136
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 203270
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 6720209
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 552
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 126
+			}
+		  ]
+		},
+		{
+		  "Level": 23,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 188874
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 406533
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 264251
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 9273888
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 800
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 182
+			}
+		  ]
+		},
+		{
+		  "Level": 24,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 283311
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 548819
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 343526
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 12797965
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 1160
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 263
+			}
+		  ]
+		},
+		{
+		  "Level": 25,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 410800
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 795787
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 446583
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 17917151
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 1682
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 381
+			}
+		  ]
+		},
+		{
+		  "Level": 26,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 595660
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 1153891
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 580557
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 25084011
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 2438
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 552
+			}
+		  ]
+		},
+		{
+		  "Level": 27,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 863707
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 1673141
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 754724
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 35117615
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 3535
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 96
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 800
+			}
+		  ]
+		},
+		{
+		  "Level": 28,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 1252375
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 2426054
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 981141
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 49164661
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 5125
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 467
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 1160
+			}
+		  ]
+		},
+		{
+		  "Level": 29,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 1815943
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 3517778
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 1275483
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 68830525
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 7431
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 785
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 1682
+			}
+		  ]
+		},
+		{
+		  "Level": 30,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 2633117
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 5100778
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 1658127
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 96362735
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 10774
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 1118
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 2438
+			}
+		  ]
+		},
+		{
+		  "Level": 31,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 1289423
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 2576579
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 854302
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 48676139
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 5629
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 96
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 0
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 1273
+			}
+		  ]
+		},
+		{
+		  "Level": 32,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 1553526
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 3079273
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 1151760
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 58172914
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 6632
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 467
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 1443
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 1417
+			}
+		  ]
+		},
+		{
+		  "Level": 33,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 1864727
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 3666884
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 1457061
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 69273935
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 7788
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 785
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 1738
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 1576
+			}
+		  ]
+		},
+		{
+		  "Level": 34,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 2145701
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 4193735
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 1768840
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 79227075
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 8812
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 1118
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 2180
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 1784
+			}
+		  ]
+		},
+		{
+		  "Level": 35,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 2511988
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 4876107
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 2086152
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 92118284
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 10123
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 1338
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 2511988
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 2049
+			}
+		  ]
+		},
+		{
+		  "Level": 36,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 7246450
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 23686312
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 2313624
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 353272627
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 19903
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 1704
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 1443
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 4830
+			}
+		  ]
+		},
+		{
+		  "Level": 37,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 8695742
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 28423581
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 2640956
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 424334976
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 21896
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 1880
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 1738
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 5314
+			}
+		  ]
+		},
+		{
+		  "Level": 38,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 10869672
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 35529476
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 2995471
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 530756105
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 25876
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 2059
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 2180
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 6040
+			}
+		  ]
+		},
+		{
+		  "Level": 39,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 13768253
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 45004001
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 3385059
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 672593420
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 31847
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 2411
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 2772
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 7006
+			}
+		  ]
+		},
+		{
+		  "Level": 40,
+		  "price": [
+			{
+			  "Type": "Food",
+			  "Value": 0
+			},
+			{
+			  "Type": "Iron",
+			  "Value": 16304510
+			},
+			{
+			  "Type": "Reqs",
+			  "Value": ""
+			},
+			{
+			  "Type": "Stone",
+			  "Value": 53294209
+			},
+			{
+			  "Type": "Upgrade Time",
+			  "Value": 3815987
+			},
+			{
+			  "Type": "Wood",
+			  "Value": 796757756
+			},
+			{
+			  "Type": "Brick",
+			  "Value": 33838
+			},
+			{
+			  "Type": "Keystone",
+			  "Value": 0
+			},
+			{
+			  "Type": "ValyrianStone",
+			  "Value": 2937
+			},
+			{
+			  "Type": "Blackstone",
+			  "Value": 3294
+			},
+			{
+			  "Type": "Pine",
+			  "Value": 8214
+			}
+		  ]
+		}
+	  ],
+  "Medictent": [
+    {
+      "Level": 1,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 272
+        },
+        {
+          "Type": "Wood",
+          "Value": 426
+        },
+        {
+          "Type": "Brick",
+          "Value": 0
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 2,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 310
+        },
+        {
+          "Type": "Wood",
+          "Value": 595
+        },
+        {
+          "Type": "Brick",
+          "Value": 0
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 3,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 800
+        },
+        {
+          "Type": "Wood",
+          "Value": 895
+        },
+        {
+          "Type": "Brick",
+          "Value": 0
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 4,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 861
+        },
+        {
+          "Type": "Wood",
+          "Value": 1428
+        },
+        {
+          "Type": "Brick",
+          "Value": 0
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 5,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 1328
+        },
+        {
+          "Type": "Wood",
+          "Value": 2572
+        },
+        {
+          "Type": "Brick",
+          "Value": 0
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 6,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 2390
+        },
+        {
+          "Type": "Wood",
+          "Value": 4894
+        },
+        {
+          "Type": "Brick",
+          "Value": 0
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 7,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 3823
+        },
+        {
+          "Type": "Wood",
+          "Value": 9788
+        },
+        {
+          "Type": "Brick",
+          "Value": 4
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 8,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 5353
+        },
+        {
+          "Type": "Wood",
+          "Value": 19542
+        },
+        {
+          "Type": "Brick",
+          "Value": 5
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 0
+        }
+      ]
+    },
+    {
+      "Level": 9,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 6423
+        },
+        {
+          "Type": "Wood",
+          "Value": 39151
+        },
+        {
+          "Type": "Brick",
+          "Value": 7
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 1
+        }
+      ]
+    },
+    {
+      "Level": 10,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 0
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 7707
+        },
+        {
+          "Type": "Wood",
+          "Value": 48263
+        },
+        {
+          "Type": "Brick",
+          "Value": 10
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 2
+        }
+      ]
+    },
+    {
+      "Level": 11,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 5025
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 9248
+        },
+        {
+          "Type": "Wood",
+          "Value": 96188
+        },
+        {
+          "Type": "Brick",
+          "Value": 14
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 3
+        }
+      ]
+    },
+    {
+      "Level": 12,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 9525
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 11559
+        },
+        {
+          "Type": "Wood",
+          "Value": 182925
+        },
+        {
+          "Type": "Brick",
+          "Value": 20
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 4
+        }
+      ]
+    },
+    {
+      "Level": 13,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 17175
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 14448
+        },
+        {
+          "Type": "Wood",
+          "Value": 329062
+        },
+        {
+          "Type": "Brick",
+          "Value": 29
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 5
+        }
+      ]
+    },
+    {
+      "Level": 14,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 25800
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 18060
+        },
+        {
+          "Type": "Wood",
+          "Value": 492749
+        },
+        {
+          "Type": "Brick",
+          "Value": 42
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 7
+        }
+      ]
+    },
+    {
+      "Level": 15,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 0
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 29325
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 23478
+        },
+        {
+          "Type": "Wood",
+          "Value": 560248
+        },
+        {
+          "Type": "Brick",
+          "Value": 60
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 10
+        }
+      ]
+    },
+    {
+      "Level": 16,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 8790
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 39588
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 30521
+        },
+        {
+          "Type": "Wood",
+          "Value": 773142
+        },
+        {
+          "Type": "Brick",
+          "Value": 87
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 14
+        }
+      ]
+    },
+    {
+      "Level": 17,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 13185
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 53443
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 39677
+        },
+        {
+          "Type": "Wood",
+          "Value": 1066935
+        },
+        {
+          "Type": "Brick",
+          "Value": 126
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 20
+        }
+      ]
+    },
+    {
+      "Level": 18,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 19777
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 72148
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 51580
+        },
+        {
+          "Type": "Wood",
+          "Value": 1472370
+        },
+        {
+          "Type": "Brick",
+          "Value": 182
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 29
+        }
+      ]
+    },
+    {
+      "Level": 19,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 29665
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 97399
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 67054
+        },
+        {
+          "Type": "Wood",
+          "Value": 2031870
+        },
+        {
+          "Type": "Brick",
+          "Value": 263
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 42
+        }
+      ]
+    },
+    {
+      "Level": 20,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 44497
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 131488
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 87170
+        },
+        {
+          "Type": "Wood",
+          "Value": 2803980
+        },
+        {
+          "Type": "Brick",
+          "Value": 381
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 60
+        }
+      ]
+    },
+    {
+      "Level": 21,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 66745
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 177508
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 113321
+        },
+        {
+          "Type": "Wood",
+          "Value": 3869492
+        },
+        {
+          "Type": "Brick",
+          "Value": 552
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 87
+        }
+      ]
+    },
+    {
+      "Level": 22,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 100117
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 239635
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 147317
+        },
+        {
+          "Type": "Wood",
+          "Value": 5339898
+        },
+        {
+          "Type": "Brick",
+          "Value": 800
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 126
+        }
+      ]
+    },
+    {
+      "Level": 23,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 150175
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 323507
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 191512
+        },
+        {
+          "Type": "Wood",
+          "Value": 7369059
+        },
+        {
+          "Type": "Brick",
+          "Value": 1160
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 182
+        }
+      ]
+    },
+    {
+      "Level": 24,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 225262
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 436734
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 248965
+        },
+        {
+          "Type": "Wood",
+          "Value": 10169301
+        },
+        {
+          "Type": "Brick",
+          "Value": 1682
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 263
+        }
+      ]
+    },
+    {
+      "Level": 25,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 326629
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 633264
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 323654
+        },
+        {
+          "Type": "Wood",
+          "Value": 14237021
+        },
+        {
+          "Type": "Brick",
+          "Value": 2438
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 381
+        }
+      ]
+    },
+    {
+      "Level": 26,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 473612
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 918232
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 420750
+        },
+        {
+          "Type": "Wood",
+          "Value": 19931829
+        },
+        {
+          "Type": "Brick",
+          "Value": 3535
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 552
+        }
+      ]
+    },
+    {
+      "Level": 27,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 686737
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 1331436
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 546975
+        },
+        {
+          "Type": "Wood",
+          "Value": 27904560
+        },
+        {
+          "Type": "Brick",
+          "Value": 5125
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 800
+        }
+      ]
+    },
+    {
+      "Level": 28,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 995768
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 1930582
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 711067
+        },
+        {
+          "Type": "Wood",
+          "Value": 39066384
+        },
+        {
+          "Type": "Brick",
+          "Value": 7431
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 1160
+        }
+      ]
+    },
+    {
+      "Level": 29,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 1443863
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 2799343
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 924387
+        },
+        {
+          "Type": "Wood",
+          "Value": 54692937
+        },
+        {
+          "Type": "Brick",
+          "Value": 10774
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 1682
+        }
+      ]
+    },
+    {
+      "Level": 30,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 2093601
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 4059047
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 1201703
+        },
+        {
+          "Type": "Wood",
+          "Value": 76570111
+        },
+        {
+          "Type": "Brick",
+          "Value": 15622
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 0
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 2438
+        }
+      ]
+    },
+    {
+      "Level": 31,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 1025225
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 2050364
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 619143
+        },
+        {
+          "Type": "Wood",
+          "Value": 38678213
+        },
+        {
+          "Type": "Brick",
+          "Value": 8162
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 103
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 1273
+        }
+      ]
+    },
+    {
+      "Level": 32,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 1235214
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 2450393
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 834720
+        },
+        {
+          "Type": "Wood",
+          "Value": 46224380
+        },
+        {
+          "Type": "Brick",
+          "Value": 9616
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 483
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 1417
+        }
+      ]
+    },
+    {
+      "Level": 33,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 1482651
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 2917997
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 1055983
+        },
+        {
+          "Type": "Wood",
+          "Value": 55045286
+        },
+        {
+          "Type": "Brick",
+          "Value": 11293
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 808
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 1576
+        }
+      ]
+    },
+    {
+      "Level": 34,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 1706055
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 3337249
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 1281940
+        },
+        {
+          "Type": "Wood",
+          "Value": 62954083
+        },
+        {
+          "Type": "Brick",
+          "Value": 12777
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 1149
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 1784
+        }
+      ]
+    },
+    {
+      "Level": 35,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 1997291
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 3880260
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 1511907
+        },
+        {
+          "Type": "Wood",
+          "Value": 73197478
+        },
+        {
+          "Type": "Brick",
+          "Value": 14678
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 1375
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 0
+        },
+        {
+          "Type": "Pine",
+          "Value": 2049
+        }
+      ]
+    },
+    {
+      "Level": 36,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 5761678
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 18848860
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 1676765
+        },
+        {
+          "Type": "Wood",
+          "Value": 280711537
+        },
+        {
+          "Type": "Brick",
+          "Value": 28862
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 1751
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 1484
+        },
+        {
+          "Type": "Pine",
+          "Value": 4830
+        }
+      ]
+    },
+    {
+      "Level": 37,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 6914016
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 22618635
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 1913992
+        },
+        {
+          "Type": "Wood",
+          "Value": 337177912
+        },
+        {
+          "Type": "Brick",
+          "Value": 31746
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 1933
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 1787
+        },
+        {
+          "Type": "Pine",
+          "Value": 5314
+        }
+      ]
+    },
+    {
+      "Level": 38,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 8642515
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 28273292
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 2170922
+        },
+        {
+          "Type": "Wood",
+          "Value": 421740470
+        },
+        {
+          "Type": "Brick",
+          "Value": 37519
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 2116
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 2241
+        },
+        {
+          "Type": "Pine",
+          "Value": 6040
+        }
+      ]
+    },
+    {
+      "Level": 39,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 10947190
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 35812839
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 2453272
+        },
+        {
+          "Type": "Wood",
+          "Value": 534444850
+        },
+        {
+          "Type": "Brick",
+          "Value": 46179
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 2477
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 2848
+        },
+        {
+          "Type": "Pine",
+          "Value": 7006
+        }
+      ]
+    },
+    {
+      "Level": 40,
+      "price": [
+        {
+          "Type": "Food",
+          "Value": 0
+        },
+        {
+          "Type": "Iron",
+          "Value": 12963775
+        },
+        {
+          "Type": "Reqs",
+          "Value": ""
+        },
+        {
+          "Type": "Stone",
+          "Value": 42409936
+        },
+        {
+          "Type": "Upgrade Time",
+          "Value": 2765579
+        },
+        {
+          "Type": "Wood",
+          "Value": 633106214
+        },
+        {
+          "Type": "Brick",
+          "Value": 49064
+        },
+        {
+          "Type": "Keystone",
+          "Value": 0
+        },
+        {
+          "Type": "ValyrianStone",
+          "Value": 3016
+        },
+        {
+          "Type": "Blackstone",
+          "Value": 3382
+        },
+        {
+          "Type": "Pine",
+          "Value": 8214
+        }
+      ]
+    }
+  ]
 }
