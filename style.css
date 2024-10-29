@@ -462,6 +462,7 @@ span.efficiency {
     display: flex;
     align-items: center;
     column-gap: 8px;
+    padding: 2px 0px;
 }
 
 .resources img {
