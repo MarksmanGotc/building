@@ -209,7 +209,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -1679,7 +1679,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -3937,7 +3937,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -3986,7 +3986,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4035,7 +4035,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4084,7 +4084,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4133,7 +4133,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4182,7 +4182,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4231,7 +4231,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4280,7 +4280,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4329,7 +4329,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4378,7 +4378,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4427,7 +4427,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4476,7 +4476,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4525,7 +4525,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4574,7 +4574,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4623,7 +4623,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4672,7 +4672,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4721,7 +4721,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4770,7 +4770,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4819,7 +4819,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4868,7 +4868,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4917,7 +4917,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -4966,7 +4966,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5015,7 +5015,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5064,7 +5064,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5113,7 +5113,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5162,7 +5162,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5211,7 +5211,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5260,7 +5260,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5309,7 +5309,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5358,7 +5358,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5407,7 +5407,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5456,7 +5456,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5505,7 +5505,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5554,7 +5554,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5603,7 +5603,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5652,7 +5652,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5701,7 +5701,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5750,7 +5750,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5799,7 +5799,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -5848,7 +5848,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "        MaestersTower"
+                    "Value": "Maester's Tower"
                 },
                 {
                     "Type": "Stone",
@@ -15709,7 +15709,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -15758,7 +15758,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -15807,7 +15807,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -15856,7 +15856,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -15905,7 +15905,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -15954,7 +15954,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16003,7 +16003,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16052,7 +16052,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16101,7 +16101,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16150,7 +16150,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16199,7 +16199,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16248,7 +16248,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16297,7 +16297,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16346,7 +16346,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16395,7 +16395,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16444,7 +16444,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16493,7 +16493,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16542,7 +16542,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16591,7 +16591,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16640,7 +16640,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16689,7 +16689,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16738,7 +16738,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16787,7 +16787,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16836,7 +16836,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16885,7 +16885,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16934,7 +16934,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -16983,7 +16983,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17032,7 +17032,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17081,7 +17081,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17130,7 +17130,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17179,7 +17179,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17228,7 +17228,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17277,7 +17277,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17326,7 +17326,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17375,7 +17375,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17424,7 +17424,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17473,7 +17473,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17522,7 +17522,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17571,7 +17571,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -17620,7 +17620,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "WarCamp"
+                    "Value": "War Camp"
                 },
                 {
                     "Type": "Stone",
@@ -25519,7 +25519,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25568,7 +25568,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25617,7 +25617,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25666,7 +25666,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25715,7 +25715,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25764,7 +25764,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25813,7 +25813,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25862,7 +25862,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25911,7 +25911,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -25960,7 +25960,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26009,7 +26009,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26058,7 +26058,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26107,7 +26107,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26156,7 +26156,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26205,7 +26205,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26254,7 +26254,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26303,7 +26303,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26352,7 +26352,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26401,7 +26401,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26450,7 +26450,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26499,7 +26499,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26548,7 +26548,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26597,7 +26597,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26646,7 +26646,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26695,7 +26695,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26744,7 +26744,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26793,7 +26793,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26842,7 +26842,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26891,7 +26891,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26940,7 +26940,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -26989,7 +26989,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27038,7 +27038,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27087,7 +27087,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27136,7 +27136,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27185,7 +27185,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27234,7 +27234,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27283,7 +27283,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27332,7 +27332,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27381,7 +27381,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -27430,7 +27430,7 @@ let build = {
                 },
                 {
                     "Type": "Reqs",
-                    "Value": "MedicTent"
+                    "Value": "Medic Tent"
                 },
                 {
                     "Type": "Stone",
@@ -39239,7 +39239,7 @@ let build = {
             ]
         }
     ],
-	  "Warcamp": [
+	  "War Camp": [
 		{
 		  "Level": 1,
 		  "price": [
@@ -41201,7 +41201,7 @@ let build = {
 		  ]
 		}
 	  ],
-  "Medictent": [
+  "Medic Tent": [
     {
       "Level": 1,
       "price": [
