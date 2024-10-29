@@ -41,10 +41,6 @@ function loadBuildings(buildingSelectElement) {
         option.textContent = building;
         buildingSelectElement.appendChild(option);
     });
-
-    // Päivitä enhancements-valikko valitun rakennuksen perusteella
-    var enhancementSelect = buildingSelectElement.parentNode.parentNode.querySelector('.enhancementSelect');
-    loadEnhancements(enhancementSelect);
 }
 
 
