@@ -376,6 +376,29 @@ footer svg {
 }
 
 
+#costSummary > button#closeResults {
+    background: transparent;
+    column-gap: 20px;
+	padding: 0px 20px;
+    margin: 0;
+    color: #08425a;
+    width: 100%;
+    display: flex;
+}
+
+#costSummary > button#closeResults svg {
+    height: 20px;
+    fill: #08425a;
+	transition: 0.2s;
+}
+
+#costSummary > button#closeResults:hover svg {
+    transform: rotate(90deg);
+}
+
+#costSummary > button#closeResults:hover span {
+    text-decoration: underline;
+}
 .gift {
     display: none;
     flex-direction: column;
