@@ -209,7 +209,8 @@ function calculateCost() {
 
         for (let key in blockCosts) {
             if (key === 'upgradeTime') {
-                blockCostDiv.innerHTML += `<p>Upgrade Time: ${formatTime(blockCosts[key])}</p>`;
+                const efficiencyClass = blockDiscounts[key] > 0 ? 'efficiency' : '';
+                blockCostDiv.innerHTML += `<p class="${efficiencyClass}">Upgrade Time: ${formatTime(blockCosts[key])}</p>`;
             } else if (blockCosts[key] > 0) {
                 const efficiencyClass = blockDiscounts[key] > 0 ? 'efficiency' : '';
                 blockCostDiv.innerHTML += `
@@ -232,7 +233,8 @@ function calculateCost() {
 
         for (let key in totalCosts) {
             if (key === 'upgradeTime') {
-                totalCostDiv.innerHTML += `<p>Upgrade Time: ${formatTime(totalCosts[key])}</p>`;
+                const efficiencyClass = totalDiscounts[key] > 0 ? 'efficiency' : '';
+                totalCostDiv.innerHTML += `<p class="${efficiencyClass}">Upgrade Time: ${formatTime(totalCosts[key])}</p>`;
             } else if (totalCosts[key] > 0) {
                 const efficiencyClass = totalDiscounts[key] > 0 ? 'efficiency' : '';
                 totalCostDiv.innerHTML += `
@@ -250,6 +252,7 @@ function calculateCost() {
     costSummaryElement.style.display = 'flex';
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
+
 
 
 
