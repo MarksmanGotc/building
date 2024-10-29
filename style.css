@@ -54,7 +54,6 @@ label {
 	margin-top: 10px;
 	display: block;
 	font-weight: bold;
-	font-size: 14px;
 	color: #08425a;
 }
 
@@ -208,7 +207,7 @@ div#buildingBlocksContainer .buildingBlock:last-child, .buildingBlock.start  {
 }
 
 .yourBoost > div {
-    flex: 1 1 30%;
+    flex: 1;
     min-width: 100px; /* Asettaa minimileveyden jokaiselle alaosalle */
 }
 
@@ -428,6 +427,22 @@ span.efficiency {
 
 .costBox > span {
     display: none;
+}
+.yourBoost > div {
+    flex: 1 1 30%;
+}
+.recources * {
+    display: inline-block;
+}
+
+.recources {
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+}
+
+.recources img {
+    max-width: 40px;
 }
 
 @media (max-width: 600px) {
