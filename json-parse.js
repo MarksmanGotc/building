@@ -205,9 +205,9 @@ function calculateCost() {
             }
         }
 
-        if (reqs) {
+        /*if (reqs) {
             blockCostDiv.innerHTML += `<p>Reqs: ${reqs}</p>`;
-        }
+        }*/
 
         costSummaryElement.appendChild(blockCostDiv);
     }
