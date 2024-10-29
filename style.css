@@ -469,7 +469,7 @@ span.efficiency {
     max-width: 40px;
 }
 
-.totalCosts .efficiency p, .costBox .efficiency p {
+.totalCosts .efficiency p, .costBox .efficiency p, p.efficiency {
     color: #4caf50;
 }
 
